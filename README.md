@@ -1,1 +1,1 @@
-# k2_js
+# k-digital 2기 javascript
